@@ -1,0 +1,14 @@
+C:\Users\fernanda.iosilva\source\repos\exercicioEscolhaCaso\exercicioEscolhaCaso\bin\Debug\net8.0\exercicioEscolhaCaso.exe
+C:\Users\fernanda.iosilva\source\repos\exercicioEscolhaCaso\exercicioEscolhaCaso\bin\Debug\net8.0\exercicioEscolhaCaso.deps.json
+C:\Users\fernanda.iosilva\source\repos\exercicioEscolhaCaso\exercicioEscolhaCaso\bin\Debug\net8.0\exercicioEscolhaCaso.runtimeconfig.json
+C:\Users\fernanda.iosilva\source\repos\exercicioEscolhaCaso\exercicioEscolhaCaso\bin\Debug\net8.0\exercicioEscolhaCaso.dll
+C:\Users\fernanda.iosilva\source\repos\exercicioEscolhaCaso\exercicioEscolhaCaso\bin\Debug\net8.0\exercicioEscolhaCaso.pdb
+C:\Users\fernanda.iosilva\source\repos\exercicioEscolhaCaso\exercicioEscolhaCaso\obj\Debug\net8.0\exercicioEscolhaCaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernanda.iosilva\source\repos\exercicioEscolhaCaso\exercicioEscolhaCaso\obj\Debug\net8.0\exercicioEscolhaCaso.AssemblyInfoInputs.cache
+C:\Users\fernanda.iosilva\source\repos\exercicioEscolhaCaso\exercicioEscolhaCaso\obj\Debug\net8.0\exercicioEscolhaCaso.AssemblyInfo.cs
+C:\Users\fernanda.iosilva\source\repos\exercicioEscolhaCaso\exercicioEscolhaCaso\obj\Debug\net8.0\exercicioEscolhaCaso.csproj.CoreCompileInputs.cache
+C:\Users\fernanda.iosilva\source\repos\exercicioEscolhaCaso\exercicioEscolhaCaso\obj\Debug\net8.0\exercicioEscolhaCaso.dll
+C:\Users\fernanda.iosilva\source\repos\exercicioEscolhaCaso\exercicioEscolhaCaso\obj\Debug\net8.0\refint\exercicioEscolhaCaso.dll
+C:\Users\fernanda.iosilva\source\repos\exercicioEscolhaCaso\exercicioEscolhaCaso\obj\Debug\net8.0\exercicioEscolhaCaso.pdb
+C:\Users\fernanda.iosilva\source\repos\exercicioEscolhaCaso\exercicioEscolhaCaso\obj\Debug\net8.0\exercicioEscolhaCaso.genruntimeconfig.cache
+C:\Users\fernanda.iosilva\source\repos\exercicioEscolhaCaso\exercicioEscolhaCaso\obj\Debug\net8.0\ref\exercicioEscolhaCaso.dll
