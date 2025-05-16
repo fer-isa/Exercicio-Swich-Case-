@@ -16,7 +16,7 @@ O objetivo deste exercício é praticar o uso da estrutura de controle switch-ca
 
 1. Clone este repositório:
     ```sh
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/fer-isa/Exercicio-Swich-Case-.git
     ```
 2. Navegue até o diretório do projeto:
     ```sh
